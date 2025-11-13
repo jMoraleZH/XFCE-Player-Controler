@@ -12,6 +12,7 @@ Permite controlar música y video sin abrir las aplicaciones:
 Cualquier reproductor compatible con MPRIS
 Minimalista, rápido, modular y 100% compatible con cualquier distro Linux.
 Diseñado con Nerd Fonts, scroll suave y scripts independientes para cada acción.
+
 ---
 ## 📸 Capturas de pantalla
 ##### 📸 Captura general del panel
@@ -40,6 +41,7 @@ Diseñado con Nerd Fonts, scroll suave y scripts independientes para cada acció
 - Perfecto para XFCE Panel + Genmon
 - Incluye servicio systemd para notificaciones de Spotify con portada
 - Súper liviano, sin dependencias extra
+
 ---
 ## 📦 Estructura del proyecto
 ```
@@ -77,6 +79,7 @@ genmon-multimedia/
 - Spotify (solo si deseas notificaciones con portada)
 
 - systemd user habilitado (para el watcher de Spotify)
+
 ---
 ## 📥 Instalación
 1. Clonar el repositorio
@@ -135,12 +138,14 @@ PREV / PLAY / NEXT funcionan con Spotify + YouTube Premium + MPV
 ---
 ## ⭐ Licencia
 MIT License
+
 Si te gusta este proyecto, ¡déjale una estrellita! ⭐
 Pull requests y sugerencias son bienvenidas.
+
 ---
 ## 🙌 Créditos
 Proyecto creado en Linux XFCE Arch Linux 🎧🐧
-Idea y scripts refinados con ayuda de IA compañera
+
 ---
 ## 💬 NOTA FINAL
 Este proyecto es ideal para:
