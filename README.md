@@ -30,16 +30,16 @@ Diseñado con Nerd Fonts, scroll suave y scripts independientes para cada acció
 ---
 ## 🧩 Características
 
-✔ Control universal: Spotify + YouTube Premium + MPV
-✔ Botones Previous / Play-Pause / Next
-✔ Título con scroll real (con detección de largo y desplazamiento automático)
-✔ Ícono dinámico según reproductor activo
-✔ Color según estado (Playing / Paused)
-✔ Totalmente modular (cada script independiente)
-✔ Solo usa playerctl + NerdFonts
-✔ Perfecto para XFCE Panel + Genmon
-✔ Incluye servicio systemd para notificaciones de Spotify con portada
-✔ Súper liviano, sin dependencias extra
+ - Control universal: Spotify + YouTube Premium + MPV
+- Botones Previous / Play-Pause / Next
+- Título con scroll real (con detección de largo y desplazamiento automático)
+- Ícono dinámico según reproductor activo
+- Color según estado (Playing / Paused)
+- Totalmente modular (cada script independiente)
+- Solo usa playerctl + NerdFonts
+- Perfecto para XFCE Panel + Genmon
+- Incluye servicio systemd para notificaciones de Spotify con portada
+- Súper liviano, sin dependencias extra
 ---
 ## 📦 Estructura del proyecto
 ```
@@ -81,7 +81,7 @@ genmon-multimedia/
 ## 📥 Instalación
 1. Clonar el repositorio
 ```
-git clone https://github.com/jMoraleZH/XFCE-Player-Controler.git
+git clone https://github.com/tuusuario/genmon-multimedia.git
 cd genmon-multimedia
 ```
 2. Instalar scripts
@@ -134,13 +134,11 @@ PREV / PLAY / NEXT funcionan con Spotify + YouTube Premium + MPV
 ```
 ---
 ## ⭐ Licencia
-
 MIT License
 Si te gusta este proyecto, ¡déjale una estrellita! ⭐
 Pull requests y sugerencias son bienvenidas.
 ---
 ## 🙌 Créditos
-
 Proyecto creado en Linux XFCE Arch Linux 🎧🐧
 Idea y scripts refinados con ayuda de IA compañera
 ---
@@ -151,3 +149,8 @@ Este proyecto es ideal para:
 - Paneles limpios tipo macOS / i3 / polybar
 ##### 🐧 Desktop
 ![Desktop](./_screenshots/6.png)
+
+
+
+
+
