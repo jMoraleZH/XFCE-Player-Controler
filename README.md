@@ -9,7 +9,7 @@
 </p>
 
 
-# 🎧 XFCE Universal Multimedia Controls (Genmon + Playerctl)
+## 🎧 Universal Multimedia Controls (Genmon + Playerctl)
 
 Controles multimedia universales para XFCE usando Genmon y playerctl.
 Permite controlar música y video sin abrir las aplicaciones:
@@ -95,7 +95,7 @@ genmon-multimedia/
 ## 📥 Instalación
 1. Clonar el repositorio
 ```
-git clone https://github.com/tuusuario/genmon-multimedia.git
+https://github.com/jMoraleZH/XFCE-Player-Controler.git
 cd genmon-multimedia
 ```
 2. Instalar scripts
