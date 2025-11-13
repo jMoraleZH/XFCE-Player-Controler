@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./_screenshots/beary.png" width="180" alt="BearyTECH Logo">
+</p>
+
+<h1 align="center">🎧 XFCE Universal Multimedia Controls</h1>
+
+<p align="center">
+  by <strong>BearyTECH</strong>
+</p>
+
+
 # 🎧 XFCE Universal Multimedia Controls (Genmon + Playerctl)
 
 Controles multimedia universales para XFCE usando Genmon y playerctl.
