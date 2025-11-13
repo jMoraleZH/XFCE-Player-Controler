@@ -1,0 +1,13 @@
+# No subir archivos cache ni temporales
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+
+# Archivos de servicio
+*.service~
+
+# Archivos del usuario
+.cache/
+logs/

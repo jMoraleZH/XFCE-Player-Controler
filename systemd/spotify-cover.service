@@ -1,0 +1,9 @@
+[Unit]
+Description=Notificaciones con cover de Spotify (solo una por canción)
+
+[Service]
+ExecStart=/home/zerial_skiller/.local/bin/spotify-cover-listener.sh
+Restart=always
+
+[Install]
+WantedBy=default.target
