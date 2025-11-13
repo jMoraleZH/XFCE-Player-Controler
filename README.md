@@ -81,7 +81,7 @@ genmon-multimedia/
 ## 📥 Instalación
 1. Clonar el repositorio
 ```
-git clone https://github.com/tuusuario/genmon-multimedia.git
+git clone https://github.com/jMoraleZH/XFCE-Player-Controler.git
 cd genmon-multimedia
 ```
 2. Instalar scripts
